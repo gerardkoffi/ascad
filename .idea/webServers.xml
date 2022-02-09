@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4bbd8d9f-0880-4d43-a141-1a860d33ab12" name="KIGNONCARD" url="http://dev.kignoncard.loc/core">
+        <fileTransfer rootFolder="/web/cartefidelitykignon/" host="kignonbarbershop.com" port="21">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
